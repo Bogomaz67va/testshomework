@@ -1,0 +1,4 @@
+tests/.pytest_cache
+selenium/chromedriver.exe
+venv/
+.idea/
